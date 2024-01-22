@@ -9,3 +9,12 @@ console.log("Subtraction",a-b)
 console.log("Multiplication",a*b)
 console.log("Division",b/a)
 console.log("Modulus",a%b)
+//Relational operator
+aR=10
+bR=20
+console.log("Relational Operator > is:",aR > bR)
+console.log("Relational Operator < is:",aR < bR)
+console.log("Relational Operator >= is:",aR >= bR)
+console.log("Relational Operator <= is:",aR <= bR)
+console.log("Relational Operator === is:",aR === bR)
+console.log("Relational Operator !== is:",aR !== bR)
